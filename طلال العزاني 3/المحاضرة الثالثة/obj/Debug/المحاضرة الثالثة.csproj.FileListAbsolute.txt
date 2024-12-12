@@ -1,0 +1,14 @@
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثالثة\المحاضرة الثالثة\bin\Debug\المحاضرة الثالثة.exe.config
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثالثة\المحاضرة الثالثة\bin\Debug\المحاضرة الثالثة.exe
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثالثة\المحاضرة الثالثة\bin\Debug\المحاضرة الثالثة.pdb
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثالثة\المحاضرة الثالثة\obj\Debug\المحاضرة الثالثة.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثالثة\المحاضرة الثالثة\obj\Debug\المحاضرة الثالثة.csproj.SuggestedBindingRedirects.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثالثة\المحاضرة الثالثة\obj\Debug\المحاضرة_الثالثة.Form1.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثالثة\المحاضرة الثالثة\obj\Debug\المحاضرة_الثالثة.Form2.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثالثة\المحاضرة الثالثة\obj\Debug\المحاضرة_الثالثة.Form3.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثالثة\المحاضرة الثالثة\obj\Debug\المحاضرة_الثالثة.Properties.Resources.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثالثة\المحاضرة الثالثة\obj\Debug\المحاضرة الثالثة.csproj.GenerateResource.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثالثة\المحاضرة الثالثة\obj\Debug\المحاضرة الثالثة.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثالثة\المحاضرة الثالثة\obj\Debug\المحاضرة الثالثة.exe
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثالثة\المحاضرة الثالثة\obj\Debug\المحاضرة الثالثة.pdb
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الثالثة\المحاضرة الثالثة\obj\Debug\المحاضرة_الثالثة.Form4.resources
